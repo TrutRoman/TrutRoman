@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Roman Trut
 
-I am a second-year university student with a strong focus on software engineering and data science. I am a fast learner with a solid technical foundation, highly motivated to translate my programming skills into practical, real-world solutions. I am constantly exploring new technologies and keeping up with the latest developments in the IT industry.
+I am a second-year university student with a strong focus on software engineering and gamedev. I am a fast learner with a solid technical foundation, highly motivated to translate my programming skills into practical, real-world solutions. I am constantly exploring new technologies and keeping up with the latest developments in the IT industry.
 
 ## 🎓 Education
 
